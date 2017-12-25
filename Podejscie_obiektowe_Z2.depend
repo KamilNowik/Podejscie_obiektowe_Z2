@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\krecik\desktop\codeblock\podejscie_obiektowe_z2\main.cpp
+	<iostream>
+
+1514171669 source:c:\users\krecik\desktop\codeblock\podejscie_obiektowe_z2\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1514169321 c:\users\krecik\desktop\codeblock\podejscie_obiektowe_z2\pytanie.h
+	<iostream>
+
